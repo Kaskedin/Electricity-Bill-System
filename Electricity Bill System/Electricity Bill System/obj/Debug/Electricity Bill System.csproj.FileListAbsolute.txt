@@ -1,0 +1,18 @@
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Electricity Bill System.csproj.AssemblyReference.cache
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Electricity Bill System.csproj.SuggestedBindingRedirects.cache
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\MainWindow.g.cs
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Registration.g.cs
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\App.g.cs
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Electricity Bill System_MarkupCompile.cache
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Electricity Bill System_MarkupCompile.lref
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\bin\Debug\Electricity Bill System.exe.config
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\bin\Debug\Electricity Bill System.exe
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\bin\Debug\Electricity Bill System.pdb
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\MainWindow.baml
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Registration.baml
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Electricity Bill System.g.resources
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Electricity_Bill_System.Properties.Resources.resources
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Electricity Bill System.csproj.GenerateResource.cache
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Electricity Bill System.csproj.CoreCompileInputs.cache
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Electricity Bill System.exe
+D:\Student life\Work\Electricity Bill System\Electricity Bill System\obj\Debug\Electricity Bill System.pdb
